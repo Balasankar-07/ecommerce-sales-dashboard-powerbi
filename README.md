@@ -1,4 +1,4 @@
-👋 Hi Friends,Excited to share my Power BI project, where I explored data to uncover insights and tell meaningful stories through visuals.
+👋 Hi Friends, Excited to share my Power BI project, where I explored data to uncover insights and tell meaningful stories through visuals.
 
 📌 For those who’ve seen this visualization before — yes, it’s inspired by a YouTube project! But as a beginner, working on such structured datasets helped me grasp key concepts and build confidence. I also made several enhancements to make it my own.
 
@@ -50,6 +50,7 @@ A US-based eCommerce company needed a comprehensive sales dashboard to monitor Y
 •	🚨 Over 54.1% of orders were delivered late, risking customer satisfaction and 🔁 retention.
 
 •	📦 Improving delivery timelines could directly reduce churn and build long-term trust.
+
 
 
 
